@@ -14,10 +14,9 @@ do
 python 999dice.py &
 python 999dice.py &
 python 999dice.py &
-python 999dice.py &
-python 999dice.py 
+python 999dice.py
 
-x=10
+x=3
 while [ $x -gt 0 ]
 do
 sleep 1s

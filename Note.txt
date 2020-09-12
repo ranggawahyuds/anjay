@@ -1,0 +1,14 @@
+
+
+1. CREATE NEW ACCOUNT 999DICE : 
+   https://www.999dice.com/?274029946
+
+2. OPEN TERMUX AND OPEN FOLDER 999dice
+3. Click in Termux | sh install.sh
+4. Edit Username,  Password and your Wallet Doge in file config.json
+5. Run ( python3 999dice.py ) or ( sh c.sh ) 24hours
+
+#Donations#
+Doge Wallet : D6939ucQ2tNsBSfgDiF3zm87Hne2SFJQJT
+
+BY BLACKBTX 
