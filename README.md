@@ -11,7 +11,7 @@ An Dice mining script for [999DOGE]( https://www.999doge.com/?319436992)
 
 ## Get Started
 
-### Ubuntu
+### Ubuntu konyol
 ```
 sudo apt update
 ```
